@@ -2,7 +2,7 @@
 
 ![](totp-generator.png)
 
-[Demo](https://totp.danhersam.com/)
+[Demo](https://www.facebook.com/imArifulhaquechowdhury/)
 
 This page lets you easily generate a time-based one time password (TOTP) entirely in the web browser in case you ever lose access to your phone.
 
@@ -20,14 +20,5 @@ You can also pass the token digits, period and algorithm using a query string in
 
 See [supported hashing algorithms](https://github.com/hectorm/otpauth#supported-hashing-algorithms) for the complete list.
 
-### Import using QR codes
 
-To make it easier to import Authy entries into another authenticator app, generate QR codes using my [QR code generator](https://dan.hersam.com/tools/gen-qr-code.html).
 
-### Other Resources
-
-* https://www.pommepause.com/2014/10/how-to-extract-your-totp-secrets-from-authy/
-* https://github.com/winauth/winauth/issues/545
-* https://randomoracle.wordpress.com/2017/02/15/extracting-otp-seeds-from-authy/
-* https://gist.github.com/tresni/83b9181588c7393f6853
-* https://gist.github.com/Ingramz/14a9c39f8c306a2d43b4
